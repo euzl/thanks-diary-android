@@ -2,4 +2,8 @@
 <resources>
     <dimen name="month_font_size">28sp</dimen>
     <dimen name="total_font_size">20sp</dimen>
+
+    <dimen name="create_padding_size">7dp</dimen>
+    <dimen name="main_margin_size">7dp</dimen>
+    <dimen name="main_top_margin_size">20dp</dimen>
 </resources>
